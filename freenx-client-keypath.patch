@@ -1,0 +1,12 @@
+diff -Nur freenx-client-0.9.orig/qtnx/qtnxwindow.cpp freenx-client-0.9.keypath/qtnx/qtnxwindow.cpp
+--- freenx-client-0.9.orig/qtnx/qtnxwindow.cpp	2008-03-10 17:13:09.000000000 -0600
++++ freenx-client-0.9.keypath/qtnx/qtnxwindow.cpp	2008-08-16 15:55:30.000000000 -0600
+@@ -290,7 +290,7 @@
+ 
+     m_NXClient->setDepth(getDepth());
+ 
+-    QString keyPath = "id.key";
++    QString keyPath = "/usr/share/freenx-client/default.key";
+ 
+ #ifdef Q_WS_MAC
+     keyPath = binaryPath + "/id.key";
