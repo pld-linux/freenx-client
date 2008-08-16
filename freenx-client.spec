@@ -10,6 +10,8 @@ BuildRequires:	libnxcl-devel
 BuildRequires:	QtGui-devel >= 4.4.0
 BuildRequires:	QtXml-devel >= 4.4.0
 BuildRequires:	QtCore-devel >= 4.4.0
+BuildRequires:	qt4-qmake >= 4.4.0
+BuildRequires:	qt4-build >= 4.4.0
 Source0:        http://download.berlios.de/freenx/freenx-client-%{version}.tar.bz2
 # Source0-md5:  777b3cda7a245e3870d4870a9460cb73
 BuildRoot:      %{tmpdir}/%{name}-%{version}-root-%(id -u -n)
