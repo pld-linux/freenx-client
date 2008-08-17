@@ -15,13 +15,24 @@
    sodipodi:version="0.32"
    inkscape:version="0.46"
    sodipodi:docbase="/home/jimmac/src/cvs/tango-icon-theme/scalable/apps"
-   sodipodi:docname="nx.svg"
+   sodipodi:docname="freenx-client.svg"
    inkscape:export-filename="/home/andreas/projekt/bild/tango/terminal4.png"
    inkscape:export-xdpi="240.00000"
    inkscape:export-ydpi="240.00000"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
      id="defs1308">
+    <linearGradient
+       id="linearGradient3209">
+      <stop
+         style="stop-color:#ef2929;stop-opacity:1;"
+         offset="0"
+         id="stop3211" />
+      <stop
+         style="stop-color:#ef2929;stop-opacity:1;"
+         offset="1"
+         id="stop3213" />
+    </linearGradient>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 24 : 1"
@@ -191,12 +202,12 @@
     <linearGradient
        id="linearGradient2198">
       <stop
-         style="stop-color:#748f48;stop-opacity:1.0000000;"
-         offset="0.0000000"
+         style="stop-color:#f1f5ea;stop-opacity:1;"
+         offset="0"
          id="stop2200" />
       <stop
-         style="stop-color:#1f2816;stop-opacity:1.0000000;"
-         offset="1.0000000"
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
          id="stop2202" />
     </linearGradient>
     <linearGradient
@@ -289,16 +300,16 @@
      borderopacity="0.19607843"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="39.310703"
-     inkscape:cy="18.011404"
+     inkscape:zoom="11.441273"
+     inkscape:cx="24.312503"
+     inkscape:cy="23.409939"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="926"
      inkscape:window-height="754"
-     inkscape:window-x="124"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -399,7 +410,7 @@
        rx="1.6452150"
        ry="1.6452144" />
     <path
-       style="font-size:19.598032px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+       style="font-size:19.59803199999999990px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ef2929;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
        d="M 10.101563,12.001953 L 14.058635,12.001953 L 19.055589,23.27193 L 19.055589,12.001953 L 22.414498,12.001953 L 22.414498,28.433666 L 18.457426,28.433666 L 13.460473,17.16369 L 13.460473,28.433666 L 10.101563,28.433666 L 10.101563,12.001953 M 33.549515,20.047219 L 38.316406,28.433666 L 34.626206,28.433666 L 31.414536,22.82069 L 28.230473,28.433666 L 24.521869,28.433666 L 29.288761,20.047219 L 24.705919,12.001953 L 28.405321,12.001953 L 31.414536,17.29576 L 34.414549,12.001953 L 38.132356,12.001953 L 33.549515,20.047219"
        id="text2452" />
     <rect
@@ -417,7 +428,7 @@
        d="M 7.625388,8 C 7.102102,8 6.05153,8.190188 6.05153,9.0259761 L 6.16958,25.542519 C 23.841567,24.579133 20.294433,17.286426 42,13.633318 L 41.937264,9.2913791 C 41.859002,8.1662868 41.397947,8.0594548 40.327115,8.066071 L 7.625388,8 z "
        id="path2443" />
     <rect
-       style="opacity:0.71428572999999995;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.99999919999999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:0.71428572999999995;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ef2929;stroke-width:1.99999919999999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1340"
        width="34.026031"
        height="26.057468"
