@@ -6,5 +6,5 @@ Exec=qtnx
 Terminal=false
 Type=Application
 MimeType=application/nx-session
-Categories=Network;Remote Access;
+Categories=Network;RemoteAccess;
 # vi: encoding=utf-8
