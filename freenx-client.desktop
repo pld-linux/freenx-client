@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=QtNX
+Comment=NX Remote Desktop Program
+Icon=freenx-client
+Exec=qtnx
+Terminal=false
+Type=Application
+MimeType=application/nx-session
+Categories=Network;Remote Access;
+# vi: encoding=utf-8
