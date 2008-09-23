@@ -1,9 +1,9 @@
 Summary:	a Free NoMachine (NX) client
 Name:		freenx-client
 Version:	0.9
-Release:	0.1
+Release:	1
 License:	GPL v2 or later
-Group:		System/X11/Utilities
+Group:		X11/Applications/Networking
 Patch0:		%{name}-keypath.patch
 URL:		http://freenx.berlios.de/
 BuildRequires:	doxygen
