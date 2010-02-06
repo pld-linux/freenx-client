@@ -1,7 +1,7 @@
 Summary:	a Free NoMachine (NX) client
 Name:		freenx-client
 Version:	0.9
-Release:	2
+Release:	3
 License:	GPL v2 or later
 Group:		X11/Applications/Networking
 Patch0:		%{name}-keypath.patch
