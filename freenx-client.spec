@@ -9,8 +9,8 @@ URL:		http://freenx.berlios.de/
 BuildRequires:	QtCore-devel >= 4.4.0
 BuildRequires:	QtGui-devel >= 4.4.0
 BuildRequires:	QtXml-devel >= 4.4.0
-BuildRequires:	doxygen
 BuildRequires:	libnxcl-devel
+BuildRequires:	pkgconfig
 BuildRequires:	qt4-build >= 4.4.0
 BuildRequires:	qt4-qmake >= 4.4.0
 Requires(post,postun):	desktop-file-utils
