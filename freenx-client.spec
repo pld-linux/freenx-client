@@ -1,7 +1,7 @@
 Summary:	a Free NoMachine (NX) client
 Name:		freenx-client
 Version:	0.9
-Release:	4
+Release:	5
 License:	GPL v2 or later
 Group:		X11/Applications/Networking
 Patch0:		%{name}-keypath.patch
@@ -17,7 +17,7 @@ Requires(post,postun):	desktop-file-utils
 Requires(post,postun):	gtk-update-icon-cache
 Requires(post,postun):	hicolor-icon-theme
 Requires(post,postun):	shared-mime-info
-Requires:	nxssh
+Requires:	nx >= 3.5.0-2
 Source0:	http://download.berlios.de/freenx/%{name}-%{version}.tar.bz2
 Source1:	%{name}.desktop
 Source2:	%{name}.svg
