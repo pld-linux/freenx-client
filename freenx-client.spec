@@ -30,7 +30,7 @@ This is a free implementation of a NX session client.
 
 %prep
 %setup -q
-%patch0 -p1
+%patch -P0 -p1
 
 %build
 cd qtnx
